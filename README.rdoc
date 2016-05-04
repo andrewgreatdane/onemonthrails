@@ -1,3 +1,8 @@
+# One Month Rails
+
+This is the pinteresting applicaiton for One Monsldfsklfhs
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
